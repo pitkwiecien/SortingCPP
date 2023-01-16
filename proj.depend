@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1673877775 source:c:\users\uczen\desktop\proj\main.cpp
+	<iostream>
+	<string>
+	"ax.h"
+	"srt.h"
+
+1673877630 c:\users\uczen\desktop\proj\ax.h
+
+1673878032 c:\users\uczen\desktop\proj\srt.h
+
+1673878070 source:c:\users\uczen\desktop\proj\ax.cpp
+	<iostream>
+	"ax.h"
+
+1673878075 source:c:\users\uczen\desktop\proj\srt.cpp
+	<iostream>
+	"srt.h"
+
